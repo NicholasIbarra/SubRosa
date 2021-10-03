@@ -1,0 +1,14 @@
+C:\Dev\SubRosa\SubRosa.Service\bin\Debug\netcoreapp3.1\SubRosa.Service.deps.json
+C:\Dev\SubRosa\SubRosa.Service\bin\Debug\netcoreapp3.1\SubRosa.Service.dll
+C:\Dev\SubRosa\SubRosa.Service\bin\Debug\netcoreapp3.1\SubRosa.Service.pdb
+C:\Dev\SubRosa\SubRosa.Service\obj\Debug\netcoreapp3.1\SubRosa.Service.csprojAssemblyReference.cache
+C:\Dev\SubRosa\SubRosa.Service\obj\Debug\netcoreapp3.1\SubRosa.Service.AssemblyInfoInputs.cache
+C:\Dev\SubRosa\SubRosa.Service\obj\Debug\netcoreapp3.1\SubRosa.Service.AssemblyInfo.cs
+C:\Dev\SubRosa\SubRosa.Service\obj\Debug\netcoreapp3.1\SubRosa.Service.csproj.CoreCompileInputs.cache
+C:\Dev\SubRosa\SubRosa.Service\obj\Debug\netcoreapp3.1\SubRosa.Service.dll
+C:\Dev\SubRosa\SubRosa.Service\obj\Debug\netcoreapp3.1\SubRosa.Service.pdb
+C:\Dev\SubRosa\SubRosa.Service\bin\Debug\netcoreapp3.1\SubRosa.Domain.dll
+C:\Dev\SubRosa\SubRosa.Service\bin\Debug\netcoreapp3.1\SubRosa.Infrastructure.dll
+C:\Dev\SubRosa\SubRosa.Service\bin\Debug\netcoreapp3.1\SubRosa.Infrastructure.pdb
+C:\Dev\SubRosa\SubRosa.Service\bin\Debug\netcoreapp3.1\SubRosa.Domain.pdb
+C:\Dev\SubRosa\SubRosa.Service\obj\Debug\netcoreapp3.1\SubRosa.Service.csproj.CopyComplete

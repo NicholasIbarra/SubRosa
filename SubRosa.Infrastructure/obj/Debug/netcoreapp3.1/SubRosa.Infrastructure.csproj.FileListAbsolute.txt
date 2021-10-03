@@ -1,0 +1,12 @@
+C:\Dev\SubRosa\SubRosa.Infrastructure\bin\Debug\netcoreapp3.1\SubRosa.Infrastructure.deps.json
+C:\Dev\SubRosa\SubRosa.Infrastructure\bin\Debug\netcoreapp3.1\SubRosa.Infrastructure.dll
+C:\Dev\SubRosa\SubRosa.Infrastructure\bin\Debug\netcoreapp3.1\SubRosa.Infrastructure.pdb
+C:\Dev\SubRosa\SubRosa.Infrastructure\obj\Debug\netcoreapp3.1\SubRosa.Infrastructure.csprojAssemblyReference.cache
+C:\Dev\SubRosa\SubRosa.Infrastructure\obj\Debug\netcoreapp3.1\SubRosa.Infrastructure.AssemblyInfoInputs.cache
+C:\Dev\SubRosa\SubRosa.Infrastructure\obj\Debug\netcoreapp3.1\SubRosa.Infrastructure.AssemblyInfo.cs
+C:\Dev\SubRosa\SubRosa.Infrastructure\obj\Debug\netcoreapp3.1\SubRosa.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Dev\SubRosa\SubRosa.Infrastructure\obj\Debug\netcoreapp3.1\SubRosa.Infrastructure.dll
+C:\Dev\SubRosa\SubRosa.Infrastructure\obj\Debug\netcoreapp3.1\SubRosa.Infrastructure.pdb
+C:\Dev\SubRosa\SubRosa.Infrastructure\bin\Debug\netcoreapp3.1\SubRosa.Domain.dll
+C:\Dev\SubRosa\SubRosa.Infrastructure\bin\Debug\netcoreapp3.1\SubRosa.Domain.pdb
+C:\Dev\SubRosa\SubRosa.Infrastructure\obj\Debug\netcoreapp3.1\SubRosa.Infrastructure.csproj.CopyComplete

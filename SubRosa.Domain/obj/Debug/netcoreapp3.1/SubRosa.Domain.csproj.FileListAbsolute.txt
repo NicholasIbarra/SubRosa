@@ -1,0 +1,12 @@
+C:\Dev\SubRosa\SubRosa.Domain\bin\Debug\netcoreapp3.1\SubRosa.Domain.deps.json
+C:\Dev\SubRosa\SubRosa.Domain\bin\Debug\netcoreapp3.1\SubRosa.Domain.runtimeconfig.json
+C:\Dev\SubRosa\SubRosa.Domain\bin\Debug\netcoreapp3.1\SubRosa.Domain.runtimeconfig.dev.json
+C:\Dev\SubRosa\SubRosa.Domain\bin\Debug\netcoreapp3.1\SubRosa.Domain.dll
+C:\Dev\SubRosa\SubRosa.Domain\bin\Debug\netcoreapp3.1\SubRosa.Domain.pdb
+C:\Dev\SubRosa\SubRosa.Domain\obj\Debug\netcoreapp3.1\SubRosa.Domain.csprojAssemblyReference.cache
+C:\Dev\SubRosa\SubRosa.Domain\obj\Debug\netcoreapp3.1\SubRosa.Domain.AssemblyInfoInputs.cache
+C:\Dev\SubRosa\SubRosa.Domain\obj\Debug\netcoreapp3.1\SubRosa.Domain.AssemblyInfo.cs
+C:\Dev\SubRosa\SubRosa.Domain\obj\Debug\netcoreapp3.1\SubRosa.Domain.csproj.CoreCompileInputs.cache
+C:\Dev\SubRosa\SubRosa.Domain\obj\Debug\netcoreapp3.1\SubRosa.Domain.dll
+C:\Dev\SubRosa\SubRosa.Domain\obj\Debug\netcoreapp3.1\SubRosa.Domain.pdb
+C:\Dev\SubRosa\SubRosa.Domain\obj\Debug\netcoreapp3.1\SubRosa.Domain.genruntimeconfig.cache
